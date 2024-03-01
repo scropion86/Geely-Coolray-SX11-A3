@@ -23,5 +23,6 @@ here is how the infotainment looks like
  - i have tested it myself on my own car which infotainment system originally has software version number ending with `00235`
  - After upgrade the software it shows software version`00193`
 
+You can download the firmware and the PDF guide from this [Link](https://mega.nz/folder/4G0FiSJI#kYSL5spvA3UpBz8xa4nmcg).
 
 if anyone can help and support of modifying the update file to inject other APK file to be installed during the upgrade please contact me.
